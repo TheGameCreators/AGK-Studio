@@ -1,1 +1,1 @@
-# AGK-Studio
+# AppGameKit-Studio
